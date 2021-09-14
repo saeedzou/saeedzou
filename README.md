@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saeedzou
-- 👀 I’m interested in Deep Learning, Graph Machiine Learning, Representation Learning, Uncertainty Estimation, Computer Vision, Deep learning with applications in signal processing
+- 👀 I’m interested in Deep Learning, Graph Machine Learning, Representation Learning, Uncertainty Estimation, Computer Vision, Deep learning with applications in signal processing
 - 🌱 I’m currently learning Graph ML, Pytorch Advanced skills
 - 💞️ I’m looking to collaborate on Deep learning, Graph ML, uncertainty estimation
 - 📫 How to reach me : Telegram : t.me/SaeedZou
