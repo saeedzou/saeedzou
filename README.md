@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saeedzou
-- 👀 I’m interested in Communication Networks, Software-Defined Networks, 5G, 6G, Deep Learning, Graph Machine Learning, Representation Learning, Uncertainty Estimation, Computer Vision, Deep learning with applications in signal processing
-- 🌱 I’m currently learning Graph ML, Pytorch Advanced skills
-- 💞️ I’m looking to collaborate on Deep learning, Graph ML, uncertainty estimation
+- 👀 I’m interested in Edge AI, Edge Offloading, Meta-Reinforcement Learning, Machine Unlearning
+- 🌱 I’m currently learning Meta-Learning, Reinforcement Learning
+- 💞️ I’m looking to collaborate on Edge AI, Meta-Learning
 - 📫 How to reach me : Telegram : t.me/SaeedZou
 
 <!---
