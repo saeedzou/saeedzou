@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saeedzou
 - 👀 I’m interested in Edge AI, Edge Offloading, Meta-Reinforcement Learning, Machine Unlearning
-- 🌱 I’m currently learning Meta-Learning, Reinforcement Learning
+- 🌱 I’m currently learning Meta-Learning, Reinforcement Learning, Machine Unlearning
 - 💞️ I’m looking to collaborate on Edge AI, Meta-Learning
 - 📫 How to reach me : Telegram : t.me/SaeedZou
 
